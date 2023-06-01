@@ -1,4 +1,4 @@
-# spongebob_ai
+# Spongebob AI
 https://www.youtube.com/@ai_sponge_
 
 # Soure Code
